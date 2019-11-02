@@ -5,8 +5,8 @@
     <string name="button_geo_search">Search by map</string>
     <string name="edittext_flickr_search">Type here your search request...</string>
     <!-- Add your API keys here -->
-    <string name="flickr_api_key">b2af56de6a8c4738adaca9de6d7b1d9d</string>
-    <string name="flickr_secret">69ee187bd66fa34e</string>
+    <string name="flickr_api_key">your_flickr_api_key</string>
+    <string name="flickr_secret">Your_flickr_secret</string>
     <string name="google_maps_key">your_key</string>
 
     <!-- Titles -->
